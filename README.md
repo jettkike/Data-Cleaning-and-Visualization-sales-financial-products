@@ -1,2 +1,2 @@
-# Data-Cleaning-and-Visualization-sales-finantial-products
+# Data-Cleaning-and-Visualization-Sales-Finantial-Products
 This is a data analyst
